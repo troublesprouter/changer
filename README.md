@@ -1,1 +1,2 @@
-Hello world
+#Example repository
+Hello world the second
